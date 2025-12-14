@@ -1,0 +1,3 @@
+1. SECURITY RULE: Never use 'System.out.println'. It is a security risk. Use 'Logger'.
+2. STYLE RULE: Variable names must be in snake_case (e.g., my_variable), NOT camelCase.
+3. PERFORMANCE: Always use 'StringBuilder' for concatenation, even for small strings.
